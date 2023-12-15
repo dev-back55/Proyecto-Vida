@@ -1,0 +1,8 @@
+.container_footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
