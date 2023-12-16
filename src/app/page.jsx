@@ -10,12 +10,13 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.hero}>
         <div className={styles.imagen}>
-        <Image
-          src="/image/plantar-arbol.jpg"
-          width={900}
-          height={600}
-          alt="Picture of the author"
-        />
+          <Image
+            src="/image/plantar-arbol.jpg"
+            width={900}
+            height={600}
+            layout='responsive'
+            alt="Picture of the author"
+          />
         
         </div>
         <div className={styles.titulo}>
