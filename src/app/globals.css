@@ -1,3 +1,21 @@
+:root {
+  --main-bg-color: #6EF4CE;
+  --second-bg-color: #f8fcfc;
+  --border-color: #f9bb30;
+  --main-tx-color: #100f0f;
+  --second-tx-color: #e1e1e5;
+  --aux-tx-color: rgb(255, 149, 0);
+  --buttom-txt-color: #5CB85C;
+  --fondo-color:#595959;
+  --fondo-section-color: #00AFAF;
+  --fondo-footer-color: #333333;
+  --texto-footer-color: #0ED3C4;
+  --bgcolor-aux-blue: #1B5BE5;
+  --bgcolor-aux-blued: #134FE5;
+  --texto-gris-color: #687A7A;
+  --texto-oscuro: #1a1616;
+}
+/* RESET */
 /* Box sizing rules */
 *,
 *::before,

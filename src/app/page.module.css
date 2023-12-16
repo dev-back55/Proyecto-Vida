@@ -9,11 +9,17 @@
 }
 .hero {
   display: flex;
-  
+  width: 100%;
   justify-content: space-around;
-  
+  /*background-color: blue;*/
 }
 
+.image {
+  width: 70%;
+  object-fit: cover;
+  position: relative;
+  /*background-color: blueviolet;*/
+}
 .titulo {
   display: flex;
   justify-items: center;
@@ -21,10 +27,12 @@
   align-items: center;
   width: 30%;
   
+  /*background-color: brown;*/
   font-size: 1.5rem;
-  font-family: 'Whisper';
+  
   
 }
+
 
 .description a {
   display: flex;
@@ -82,6 +90,10 @@
 .titulo {
   width: 100%;
   font-size: 1.3rem;
+  margin-top: 1rem;
+}
+.image {
+  height: 50%;
 }
 
 }

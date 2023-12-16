@@ -16,7 +16,7 @@ export default function Home() {
           height={600}
           alt="Picture of the author"
         />
-
+        
         </div>
         <div className={styles.titulo}>
           <p className={`${roboto.className}`}>

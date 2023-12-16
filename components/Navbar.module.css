@@ -1,6 +1,6 @@
 .container {
   height: 80px;
-  background-color: var(--texto-footer-color);
+  background-color: var(--second-bg-color);
   color: var(--main-tx-color);
   display: flex;
   align-items: center;
