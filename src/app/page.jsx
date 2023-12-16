@@ -12,8 +12,8 @@ export default function Home() {
         <div className={styles.imagen}>
           <Image
             src="/image/plantar-arbol.jpg"
-            width={900}
-            height={600}
+            width={800}
+            height={500}
             layout='responsive'
             alt="Picture of the author"
           />
