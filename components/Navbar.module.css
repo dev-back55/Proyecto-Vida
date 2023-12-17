@@ -5,7 +5,6 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-size: 20px;
   font-weight: 700;
   padding: 0px 100px;
   position: relative;
@@ -17,7 +16,7 @@
   gap: 10px;
 }
 .title {
-  font-size: 30px;
+  font-size: 1.7rem;
 }
 
 .listItem {
@@ -75,7 +74,8 @@
   transition: all 1s ease;
 }
 
-@media screen and (max-width: 480px) {
+/* Mobile */
+@media screen and (max-width: 600px) {
   .container {
     padding: 0px 20px;
   }
@@ -99,6 +99,11 @@
 
   .callButton {
     padding: 10px;
-    font-size: 25px;
+    
+
+  }
+
+  .title {
+    font-size: 1.2rem;
   }
 }

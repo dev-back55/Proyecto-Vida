@@ -16,6 +16,7 @@ export default function Navbar() {
               src="/image/V-removebg.png"
               width={50}
               height={50}
+              
               alt="logo proyecto vida"
             />
           </div>
